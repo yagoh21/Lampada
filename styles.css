@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+}
+
+head, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    width: 80px;
+    background-color: aquamarine;
+}
+
+h1{
+    color: azure;
+    align-items: center;
+    text-align: center;
+}
